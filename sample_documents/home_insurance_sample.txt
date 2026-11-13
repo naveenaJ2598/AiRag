@@ -1,0 +1,8 @@
+Sample Home Insurance Policy
+
+Policy number: HOME-DEMO-2026-001
+Policy period: 1 January 2026 to 31 December 2026.
+Coverage summary: The sample policy covers specified fire and storm damage to the insured home, subject to the policy terms and exclusions.
+Claims: Contact the insurer and provide the policy number and supporting evidence.
+
+This is a fictional sample document for testing only. It is not a real insurance policy.
